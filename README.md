@@ -52,12 +52,14 @@ Creating games that involve physical activity and providing spaces for gaming an
 - E/19/163, Eshan Jayasundara, [email](mailto:e19163@eng.pdn.ac.lk)
 - E/19/236, Lahiru Manikdiwela, [email](mailto:e19236@eng.pdn.ac.lk)
 - E/19/443, Dasun Theekshana, [email](mailto:e19443@eng.pdn.ac.lk)
+- E/19/429, Deshan Weerasooriya, [email](mailto:e19429@eng.pdn.ac.lk)
 <div>
   <a href="https://github.com/harith-abeysinghe">   <img src="https://github.com/harith-abeysinghe.png" alt="Harith" width="100" style="margin-right: 20px; border-radius: 50%;" />  </a>
   <a href="https://github.com/lakshithaKaveen">     <img src="https://github.com/lakshithaKaveen.png" alt="Lakshitha" width="100" style="margin-right: 20px;" />                     </a>
   <a href="https://github.com/EshanJayasundara">    <img src="https://github.com/EshanJayasundara.png" alt="Eshan" width="100" style="margin-right: 20px;" />                        </a>
   <a href="https://github.com/lahirumenik">         <img src="https://github.com/lahirumenik.png" alt="Lahiru" width="100" style="margin-right: 20px;" />                            </a>
   <a href="https://github.com/dasuntheekshanagit">  <img src="https://github.com/dasuntheekshanagit.png" alt="Dasun" width="100" style="margin-right: 20px;" />                      </a>
+  <a href="https://github.com/MechMaestr0">  <img src="https://github.com/MechMaestr0.png" alt="Dasun" width="100" style="margin-right: 20px;" />                      </a>
 </div>
 
 ## Links
